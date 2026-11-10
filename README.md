@@ -31,8 +31,8 @@ Follow these steps to set up the project on your local machine:
 
 1. Clone the repository:
 ```bash
-git clone <repository_url>
-cd CarSync
+git clone https://github.com/AulusHZP/CarSync-PrecisionMaintenance.git
+cd CarSync-PrecisionMaintenance
 ```
 
 2. Install Flutter dependencies:
@@ -222,7 +222,7 @@ For more information, refer to:
 
 ## License
 
-This project is private and not intended for public distribution.
+This repository is publicly accessible. The project is not intended for public distribution.
 
 ## Contact
 
